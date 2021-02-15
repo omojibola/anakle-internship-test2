@@ -1,0 +1,55 @@
+.wrapper {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0 0 5px 0;
+}
+
+.wrapper .subtitle {
+  color: #969ba0;
+  font-size: 14px;
+  margin: 0;
+}
+
+.review {
+  justify-self: flex-start;
+}
+
+.filterWrapper {
+  display: flex;
+  margin-left: auto;
+  background-color: #f4f5f9;
+  border-radius: 12px;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;
+}
+
+.filter {
+  display: flex;
+}
+
+.filterText {
+  margin-right: 10%;
+  width: 200px;
+}
+.filterText .head {
+  color: #3e4954;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.filterText .sub {
+  color: #3e4954;
+  font-size: 12px;
+  margin: 0;
+}
+
+.filter img {
+  margin-right: 10px;
+}

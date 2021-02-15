@@ -1,0 +1,12 @@
+.wrapper {
+  margin-left: 300px;
+  margin-right: 20px;
+  transition: min-width 300ms ease-in;
+  overflow: hidden;
+}
+
+.closed_wrapper {
+  margin-left: 100px;
+  margin-right: 20px;
+  transition: min-width 300ms ease-in;
+}
